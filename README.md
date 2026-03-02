@@ -10,8 +10,8 @@
 
 | 名称 | 地址 |
 |------|------|
-| CloudFisher | https://cloudfisher.one |
-| StarTrail | https://qiyuanya.com |
+| CloudFisher | https://cloudfisher.one/web/#/login?code=GRZjyu64 |
+| StarTrail | https://qiyuanya.com/#/register?code=yg7bqRrW |
 
 ---
 
