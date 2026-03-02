@@ -1,5 +1,10 @@
 # Mihomo Linux 服务器代理配置指南
 
+## 官方项目地址
+
+- **Mihomo**: https://github.com/MetaCubeX/mihomo
+- **MetaCubeXD (Web UI)**: https://github.com/MetaCubeX/metacubexd
+
 ## 目录
 
 - [简介](#简介)

@@ -13,17 +13,12 @@
 
 ## 1. 下载并安装 Clash Verge 软件
 
-根据设备类型下载所需的 **Clash Verge** 软件（Clash Verge 不支持 Win7 系统，Win7 系统请换成 Clash for Windows）：
+请前往 **Clash Verge Rev** 官方项目地址下载最新版本：
 
-- **Win10-11：** [点击下载](https://dow.hongxing.one/app/clashverge/Clash.Verge_2.0.1_x64-setup.exe)
-- **Arm64 版本：** [Arm64 点击下载](https://dow.hongxing.one/app/clashverge/Clash.Verge_2.0.1_arm64-setup.exe)
-- **Mac：** [Intel 点击下载](https://dow.hongxing.one/app/clashverge/Clash.Verge_2.0.1_x64.dmg)
-- **Mac：** [Apple M 点击下载](https://dow.hongxing.one/app/clashverge/Clash.Verge_2.0.1_aarch64.dmg)
-- **Linux：** [点击下载](https://dow.hongxing.one/app/clashverge/Linux.7z)
-- **Clash for Windows：** [点击下载](https://download.hongxingdl.cc/ClashforWindows.7z)
-- **mihomo（win7）：** [点击下载](http://dow.hongxing.one/app/mihomo-party-win7-1.4.5-x64-setup.exe)
+- **官方项目：** https://github.com/clash-verge-rev/clash-verge-rev
+- **下载地址：** https://github.com/clash-verge-rev/clash-verge-rev/releases
 
-下载后按照步骤安装软件。如果遇到无法安装或启动的问题，请尝试更换版本。
+根据您的操作系统选择对应版本下载安装。如果遇到无法安装或启动的问题，请尝试更换版本。
 
 ![安装步骤1](ClashVerge_images/1-install.png)
 
