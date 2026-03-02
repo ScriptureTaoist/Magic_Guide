@@ -6,6 +6,13 @@
 
 本项目汇集了多平台代理工具的详细使用教程，涵盖 Windows、macOS、Linux、iOS、Android 及鸿蒙系统，帮助用户快速上手各类代理工具。
 
+### 🔗 魔法链接
+
+| 名称 | 地址 |
+|------|------|
+| CloudFisher | https://cloudfisher.one |
+| StarTrail | https://qiyuanya.com |
+
 ---
 
 ## 为什么需要代理工具？
