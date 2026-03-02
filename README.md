@@ -11,7 +11,6 @@
 - **ClashVerge 指南** - Windows/macOS/Linux 电脑端代理工具教程
 - **Mihomo 指南** - Linux 服务器代理配置教程
 - **手机使用指南** - iOS/Android/鸿蒙移动端代理工具教程
-- **Typora 1.9.4** - Markdown 编辑器安装包
 
 ## 快速开始
 
